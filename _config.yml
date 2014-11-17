@@ -1,0 +1,13 @@
+# Site settings
+title: Got Any Blacker
+email:
+description: "A dark Jekyll blog for GitHub pages."
+baseurl: "/got-any-blacker/"
+url: "http://roachhd.github.io/got-any-blacker/"
+twitter_username:  mektball
+github_username:  roachhd
+
+
+# Build settings
+markdown: kramdown
+permalink: pretty
